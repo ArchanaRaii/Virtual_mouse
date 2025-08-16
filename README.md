@@ -9,14 +9,6 @@ It uses:
 - **Autopy** for mouse control
 - **NumPy** for gesture math and interpolation
 
----
-
-## 📹 Demo
-
-https://user-images.githubusercontent.com/demo-video.mp4 *(Add your video link or GIF here)*
-
----
-
 
 ## 🛠️ Requirements
 
